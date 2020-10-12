@@ -1,0 +1,20 @@
+h1 {color:red; }
+
+h2 {color:teal; }
+h3 {color:teal ; }
+b {color:blue ; }
+strong {color:chocolate; }
+.ff {color:white ; 
+    border:3px solid #228b22 ;
+    border-radius:10px ;
+    background-color:#228b22 ;
+    text-decoration:none ;
+    padding:5px ;}
+.note{color:red ;}
+.paragraph{color:green ; }
+.google{border:1px solid black  ;
+        border-radius:10px ;
+        text-decoration:none ;
+        padding:1px ;
+        margin:50px ;
+        color:blue ;}
